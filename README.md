@@ -26,4 +26,4 @@ Clone the repository from temrinal, or download the zip and extract the files.
 git clone hhtps://github.com/aeyuk/Huffman-Coding-Tree.git
 ```
 
-Build the project using `make` and execute using './encode`
+Build the project using `make` and execute using `./encode`
